@@ -1,7 +1,0 @@
-# Direktori yang diabaikan
-__pycache__/
-.vscode/
-
-# File yang diabaikan
-*.exe
-*.class
