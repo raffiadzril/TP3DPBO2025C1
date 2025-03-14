@@ -14,7 +14,7 @@ Saya, **Raffi Adzril Alfaiz** dengan NIM **2308355**, mengerjakan Tugas Praktiku
 #### 1. Hierarchical Inheritance
 Saya membuat class baru yaitu Monitor, Headset, InputDevice dan OutputDevice sebagai contoh dari penerapan konsep ini. Monitor dan Headset diwarisi Komponen juga InputDevice/OutputDevice. Sehingga memenuhi konsep Hierarchical Inheritance.
 #### 2. Multiple Inheritance
-Class Headset memenuhi konsep Multiple, karena 1 child yang memiliki 2 parent. 
+Class Headset memenuhi konsep Multiple, karena 1 child yang memiliki 2 parent. notes: Untuk Java tidak menggunakan Multiple Inheritance karena tidak bisa melakukan konsep ini.
 #### 3. Hybrid Inheritance
 Dari keseluruhan konsep yang diimplementasikan terdapat lebih dari 1 konsep, sehingga memenuhi hybrid Inheritance
 #### 4. Alasan Pembuatan Class Baru
